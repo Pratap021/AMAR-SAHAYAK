@@ -1,0 +1,20 @@
+﻿id,channel,user_text_ori,user_text_en,bot_text_ori,bot_text_en,portal_url,required_documents,offline_option,intent,tags
+1,WhatsApp,ମୁଁ କିପରି ରାସନ କାର୍ଡ ପାଇବି?,How to get a ration card?,"✅ ଆପଣ ରାସନ କାର୍ଡ ପାଇଁ ଅନଲାଇନ୍ ରେ ଆବେଦନ କରିପାରିବେ:
+🔹 ପୋର୍ଟାଲ୍: https://pdsodisha.gov.in/
+🔹 ଦରକାରୀ ଡକ୍ୟୁମେଣ୍ଟ: ଆଧାର, ଆୟ ସର୍ଟିଫିକେଟ୍
+🔹 ସହଯୋଗ ପାଇଁ: ନିକଟସ୍ଥ ସେବା କେନ୍ଦ୍ର","✅ You can apply online for a ration card:
+🔹 Portal: https://pdsodisha.gov.in/
+🔹 Documents: Aadhaar, Income certificate
+🔹 For help: Visit nearest service center",https://pdsodisha.gov.in/,Aadhaar; Income certificate,Yes — visit nearest Panchayat / Service Center and submit form,ration_card,ration;subsidy;document
+2,WhatsApp,ମୋ ପାସପୋର୍ଟ କେମିତି ପାଇବି?,How do I get a passport?,"✅ ପୋଷ୍ଟାର: ନିଜର ପାସପୋର୍ଟ ଆପଲିକେସନ ଅନଲାଇନ୍ କରନ୍ତୁ:
+🔹 ପୋର୍ଟାଲ୍: https://passport.gov.in/
+🔹 ଏବଂ ଆଧାର, ପତା ପ୍ରମାଣପତ୍ର
+🔹 ନିକଟସ୍ଥ ପାସପୋର୍ଟ ସେଣ୍ଟରକୁ ଯାନ୍ତୁ","✅ Apply online for passport:
+🔹 Portal: https://passport.gov.in/
+🔹 Documents: Aadhaar, Address proof
+🔹 Or visit the nearest Passport Seva Kendra",https://passport.gov.in/,Aadhaar; Address proof; Photos,Visit Passport Seva Kendra for verification,passport,passport;id;travel
+3,WhatsApp,ମୁଁ କିପରି ମାଟ୍ରିକ ଶେଷ ପ୍ରମାଣପତ୍ର ପାଇବି?,How to get birth certificate?,"✅ ଆପଣ ଅନଲାଇନ୍ ର ଅନୁରୋଧ କରିପାରିବେ:
+🔹 ନଗରପାଳିକା/ପଞ୍ଚାୟତ ପୋର୍ଟାଲ
+🔹 ଦରକାର: ଡାକ୍ତର ନୋଟିସ୍/ହସ୍ପିଟାଲ ରିପୋର୍ଟ","✅ You can apply online via municipality/panchayat portal.
+🔹 Provide hospital record or doctor certificate
+🔹 Or visit local municipal office",,Hospital record; Parents ID,Visit local municipal office,birth_certificate,birth;certificate;civic
